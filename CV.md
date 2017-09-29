@@ -1,7 +1,10 @@
-[#VERRECCHIA](http://lucileverrecchia.com)<br />
+[# VERRECCHIA](http://lucileverrecchia.com)<br />
 Lucile<br />
 Graphiste - Intégratrice Front-end<br />
 Française<br />
+![PHOTO](http://lucileverrecchia.com/wp-content/uploads/2009/03/lucileorange-150x150.jpg)
+
+
 
 31 rue Kessels 1030, Schaerbeek, Belgique.<br />
 *04 70 39 52 38*<br />
@@ -86,16 +89,16 @@ Animation de pages. Intégration.
 
 
 
-__LANGUES__
-Français, Langue maternelle.
-Anglais B1,  5 mois de formation Bruxelles Formation.
-Italien B1, 1 an à Florence.
-Espagnol, A1, 3 mois à Barcelone.
+__LANGUES__<br>
+Français, Langue maternelle.<br>
+Anglais B1,  5 mois de formation Bruxelles Formation.<br>
+Italien B1, 1 an à Florence.<br>
+Espagnol, A1, 3 mois à Barcelone.<br>
 
 
 
 
-__HOBBIES__
+__HOBBIES__<br>
 Culture : Musées d’art contemporain, expostions de
 photographies, théatre d’impro., festivals et concerts.
 Loisirs : Voyages et langues, montagne et sports de
