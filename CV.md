@@ -1,18 +1,18 @@
-#*VERRECCHIA*<br />
+[#VERRECCHIA](http://lucileverrecchia.com)<br />
 Lucile<br />
-Graphiste - Intégratrice Front-end
-Française
+Graphiste - Intégratrice Front-end<br />
+Française<br />
 
-31 rue Kessels 1030, Schaerbeek, Belgique.
-04 70 39 52 38
-contact@lucileverrecchia.com
-http://lucileverrecchia.com
-https://www.linkedin.com/in/lverrecchia
-
-
+31 rue Kessels 1030, Schaerbeek, Belgique.<br />
+*04 70 39 52 38*<br />
+[contact@lucileverrecchia.com](contact@lucileverrecchia.com)<br />
+[http://lucileverrecchia.com](http://lucileverrecchia.com)<br />
+[https://www.linkedin.com/in/lverrecchia](https://www.linkedin.com/in/lverrecchia)<br />
 
 
-##__EXPERIENCE__
+
+
+__EXPERIENCE__
 
 2007 > 15 | Freelance | Réalisation de sites web pour
 différentes sociétés françaises et canadiennes.
@@ -27,7 +27,7 @@ Contrats de qualification
 Infographiste.
 
 
-##__CURSUS / FORMATIONS__
+__CURSUS / FORMATIONS__
 
 Cepegra - Gosselies.
 Mai à novembre 2016
@@ -58,7 +58,7 @@ Brevet de technicien dessinateur maquettiste.
 
 
 
-##__COMPÉTENCES__
+__COMPÉTENCES__
 
 Logiciels de graphisme:
 Photoshop
@@ -86,7 +86,7 @@ Animation de pages. Intégration.
 
 
 
-##__LANGUES__
+__LANGUES__
 Français, Langue maternelle.
 Anglais B1,  5 mois de formation Bruxelles Formation.
 Italien B1, 1 an à Florence.
@@ -95,7 +95,7 @@ Espagnol, A1, 3 mois à Barcelone.
 
 
 
-##__HOBBIES__
+__HOBBIES__
 Culture : Musées d’art contemporain, expostions de
 photographies, théatre d’impro., festivals et concerts.
 Loisirs : Voyages et langues, montagne et sports de
