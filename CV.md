@@ -1,4 +1,4 @@
-#*VERRECCHIA*
+#VERRECCHIA
 Lucile
 Webdesigner
 Intégratrice Front-end
