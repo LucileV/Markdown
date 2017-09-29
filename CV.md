@@ -1,7 +1,6 @@
-#VERRECCHIA
-Lucile
-Webdesigner
-Intégratrice Front-end
+#*VERRECCHIA*<br />
+Lucile<br />
+Graphiste - Intégratrice Front-end
 Française
 
 31 rue Kessels 1030, Schaerbeek, Belgique.
@@ -13,7 +12,7 @@ https://www.linkedin.com/in/lverrecchia
 
 
 
-##EXPERIENCE
+##__EXPERIENCE__
 
 2007 > 15 | Freelance | Réalisation de sites web pour
 différentes sociétés françaises et canadiennes.
@@ -28,7 +27,7 @@ Contrats de qualification
 Infographiste.
 
 
-##CURSUS / FORMATIONS
+##__CURSUS / FORMATIONS__
 
 Cepegra - Gosselies.
 Mai à novembre 2016
@@ -59,7 +58,7 @@ Brevet de technicien dessinateur maquettiste.
 
 
 
-##COMPÉTENCES
+##__COMPÉTENCES__
 
 Logiciels de graphisme:
 Photoshop
@@ -87,7 +86,7 @@ Animation de pages. Intégration.
 
 
 
-##LANGUES
+##__LANGUES__
 Français, Langue maternelle.
 Anglais B1,  5 mois de formation Bruxelles Formation.
 Italien B1, 1 an à Florence.
@@ -95,7 +94,8 @@ Espagnol, A1, 3 mois à Barcelone.
 
 
 
-##HOBBIES
+
+##__HOBBIES__
 Culture : Musées d’art contemporain, expostions de
 photographies, théatre d’impro., festivals et concerts.
 Loisirs : Voyages et langues, montagne et sports de
