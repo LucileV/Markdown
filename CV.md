@@ -6,11 +6,11 @@ Française<br />
 
 
 
-31 rue Kessels 1030, Schaerbeek, Belgique.<br />
-*04 70 39 52 38*<br />
-[contact@lucileverrecchia.com](contact@lucileverrecchia.com)<br />
-[http://lucileverrecchia.com](http://lucileverrecchia.com)<br />
-[https://www.linkedin.com/in/lverrecchia](https://www.linkedin.com/in/lverrecchia)<br />
+| Alignement Gauche 31 rue Kessels 1030, Schaerbeek, Belgique.<br />
+| Alignement Gauche **04 70 39 52 38**<br />
+| Alignement Gauche [contact@lucileverrecchia.com](contact@lucileverrecchia.com)<br />
+| Alignement Gauche [http://lucileverrecchia.com](http://lucileverrecchia.com)<br />
+| Alignement Gauche [https://www.linkedin.com/in/lverrecchia](https://www.linkedin.com/in/lverrecchia)<br />
 
 
 
